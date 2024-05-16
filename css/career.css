@@ -233,6 +233,11 @@ margin-bottom: 20px;
     height: 50vh;
     width: 100%;
 }
+    
+.backend-img + div > h1{
+    font-size: 2.3rem;
+}
+
 
 
 .full-stack{
@@ -244,6 +249,10 @@ margin-bottom: 20px;
 margin-left: 0px;
 height: 50vh;
 width: 100%;
+}
+    
+.full-stack-img + div > h1{
+    font-size: 2.3rem;
 }
 }
 
