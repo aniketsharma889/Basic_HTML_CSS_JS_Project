@@ -1,0 +1,38 @@
+.logo {
+    position: relative;
+    right: -1000px;
+}
+
+.navbar {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+}
+
+.navbar :nth-child(1) {
+    padding: 20px;
+}
+
+.navbar>li {
+    position: relative;
+    left: 30%;
+    padding-top: 30px;
+}
+
+#hamburgur {
+    background-image: none;
+    height: 7vh;
+    width: 15vw;
+    position: relative;
+    top: 7px;
+    left: 6px;
+    display: block;
+}
+
+.copyright {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
